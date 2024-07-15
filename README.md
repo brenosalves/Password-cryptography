@@ -1,2 +1,2 @@
 # Password-cryptography
-Função para criptografia de senhas
+Função para criptografia de senhas (em desenvolvimento)
